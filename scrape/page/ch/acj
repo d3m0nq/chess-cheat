@@ -1,0 +1,113 @@
+OX_7179761337({
+  "ads":{
+    "chain":1,
+    "medium":"w",
+    "record_tmpl":"http://ox-d.chess.servedbyopenx.com/{medium}/1.0/{rtype}?ts={txn_state}",
+    "pixels":"http://us-u.openx.net/w/1.0/pd?plm=6&ph=9444cbd2-8af3-4271-977e-952b2b7cfd76",
+    "adunits" : [
+      {
+        "auid":"537136304",
+        "chain_timeout":"",
+        "chain_revenue":"39",
+        "chain":[
+          {
+            "is_fallback":0,
+            "ad_id":"537318985",
+            "adv_acct_id":"537087302",
+            "adv_acct_id":"537087302",
+            "is_ng":1,
+            "adv_id":":537087302",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"160",
+            "width":"728",
+            "height":"90",
+            "html":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-0150136191207444\";\n/* AdX Chess INTL 728 ATF */\ngoogle_ad_slot = \"5615580932\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\ngoogle_page_url = \"chess.com\";\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>",
+            "target":"_blank",
+            "ts":"1fHJpZD1hYTIxNDVhOC02MDNjLTRjZGQtODNhOC04MTdjNjQ5NWQ2ZWR8cnQ9MTQyNjUyMDI5M3xhdWlkPTUzNzEzNjMwNHxhdW09RE1JRC5XRUJ8c2lkPTUzNzA5OTUwNnxwdWI9NTM3MDgwOTU3fHBjPVVTRHxyYWlkPTdiMTJhMDJlLTU1NDMtNDFmZC04MTQ3LTBhMDI0ZGI1NmRmNXxjbD01fGFpZD01MzczMTg5ODV8dD00fGFzPTcyOHg5MHxsaWQ9NTM3MjIwNDMzfG9pZD01MzcxNTk4NTJ8cD0xNjB8cHI9MTYwfGFkdj01MzcwODczMDJ8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5OT05HVUFSQU5URUVEfGxjPTJ8bHc9MTQ0MHxjaT0xfHVyPThJQmV5S0RTem8",
+            "type":"html",
+            "ad_url":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-0150136191207444\";\n/* AdX Chess INTL 728 ATF */\ngoogle_ad_slot = \"5615580932\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\ngoogle_page_url = \"chess.com\";\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>"
+          },
+          {
+            "is_fallback":0,
+            "framed":1,
+            "ad_id":"537371403",
+            "adv_acct_id":"537074041",
+            "adv_acct_id":"537074041",
+            "is_ng":1,
+            "adv_id":"152d07b1-da41-4c40-ad18-fe74c269534a:537074041",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"100",
+            "width":"728",
+            "height":"90",
+            "html":"<!-- BEGIN TECHNORATI MEDIA AD TAGS FOR Section LiftDNA_Chess.com_ATF_ROW, Ad Size: Leaderboard (728x90) -->\n<script type=\"text/javascript\">\n   document.write('<scri' + 'pt type=\"text/javascript\" src=\"'\n   + (document.location.protocol == 'https:' ? 'https://uat-secure' : 'http://ad-cdn')\n   + '.technoratimedia.com/00/21/76/uat_37621.js?ad_size=728x90\"></scri' + 'pt>');\n</script>\n<!-- END TECHNORATI MEDIA TAGS FOR Section LiftDNA_Chess.com_ATF_ROW, Ad Size: Leaderboard (728x90) -->",
+            "target":"_blank",
+            "ts":"1fHJpZD1hYTIxNDVhOC02MDNjLTRjZGQtODNhOC04MTdjNjQ5NWQ2ZWR8cnQ9MTQyNjUyMDI5M3xhdWlkPTUzNzEzNjMwNHxhdW09RE1JRC5XRUJ8c2lkPTUzNzA5OTUwNnxwdWI9NTM3MDgwOTU3fHBjPVVTRHxyYWlkPTdiMTJhMDJlLTU1NDMtNDFmZC04MTQ3LTBhMDI0ZGI1NmRmNXxjbD01fGFpZD01MzczNzE0MDN8dD00fGFzPTcyOHg5MHxsaWQ9NTM3MjUyNDE4fG9pZD01MzcxNzY4MzF8cD0xMDB8cHI9MTAwfGFkdj01MzcwNzQwNDF8YWM9VVNEfHBtPUNQTXxuPTF8YWk9MTUyZDA3YjEtZGE0MS00YzQwLWFkMTgtZmU3NGMyNjk1MzRhfGJtPXxtdz0xNDQwfG11aT1kNGRlNzY0YS03OWE1LTQyZDAtMWE2MC1lMjk1NDA4Mzk5Mjh8Y2k9Mnx1cj04SUJleUtEU3pv",
+            "type":"html",
+            "ad_url":"<!-- BEGIN TECHNORATI MEDIA AD TAGS FOR Section LiftDNA_Chess.com_ATF_ROW, Ad Size: Leaderboard (728x90) -->\n<script type=\"text/javascript\">\n   document.write('<scri' + 'pt type=\"text/javascript\" src=\"'\n   + (document.location.protocol == 'https:' ? 'https://uat-secure' : 'http://ad-cdn')\n   + '.technoratimedia.com/00/21/76/uat_37621.js?ad_size=728x90\"></scri' + 'pt>');\n</script>\n<!-- END TECHNORATI MEDIA TAGS FOR Section LiftDNA_Chess.com_ATF_ROW, Ad Size: Leaderboard (728x90) -->"
+          },
+          {
+            "is_fallback":0,
+            "ad_id":"537318985",
+            "adv_acct_id":"537087302",
+            "adv_acct_id":"537087302",
+            "is_ng":1,
+            "adv_id":":537087302",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"160",
+            "width":"728",
+            "height":"90",
+            "html":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-0150136191207444\";\n/* AdX Chess INTL 728 ATF */\ngoogle_ad_slot = \"5615580932\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\ngoogle_page_url = \"chess.com\";\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>",
+            "target":"_blank",
+            "ts":"1fHJpZD1hYTIxNDVhOC02MDNjLTRjZGQtODNhOC04MTdjNjQ5NWQ2ZWR8cnQ9MTQyNjUyMDI5M3xhdWlkPTUzNzEzNjMwNHxhdW09RE1JRC5XRUJ8c2lkPTUzNzA5OTUwNnxwdWI9NTM3MDgwOTU3fHBjPVVTRHxyYWlkPTdiMTJhMDJlLTU1NDMtNDFmZC04MTQ3LTBhMDI0ZGI1NmRmNXxjbD01fGFpZD01MzczMTg5ODV8dD00fGFzPTcyOHg5MHxsaWQ9NTM3MjIwNDMzfG9pZD01MzcxNTk4NTJ8cD0xNjB8cHI9MTYwfGFkdj01MzcwODczMDJ8YWM9VVNEfHBtPVBSSUNJTkcuQ1BNfGJtPUJVWUlORy5OT05HVUFSQU5URUVEfGxjPTJ8bHc9MTQ0MHxjaT0zfHVyPThJQmV5S0RTem8",
+            "type":"html",
+            "ad_url":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-0150136191207444\";\n/* AdX Chess INTL 728 ATF */\ngoogle_ad_slot = \"5615580932\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\ngoogle_page_url = \"chess.com\";\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>"
+          },
+          {
+            "is_fallback":0,
+            "ad_id":"537315319",
+            "adv_acct_id":"537086820",
+            "adv_acct_id":"537086820",
+            "is_ng":1,
+            "adv_id":":537086820",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"94",
+            "width":"728",
+            "height":"90",
+            "html":"<!--  Begin Rubicon Project Tag -->\n<!--  Site: Chess.com (NEW)   Zone: 728x90 Top - ROW   Size: Leaderboard  -->\n<script language=\"JavaScript\" type=\"text/javascript\">\nrp_account   = '10956';\nrp_site      = '26252';\nrp_zonesize  = '168914-2';\nrp_adtype    = 'js';\nrp_smartfile = '[SMART FILE URL]';\n</script>\n<script type=\"text/javascript\" src=\"http://ads.rubiconproject.com/ad/10956.js\"></script>\n<!--  End Rubicon Project Tag -->",
+            "target":"_blank",
+            "ts":"1fHJpZD1hYTIxNDVhOC02MDNjLTRjZGQtODNhOC04MTdjNjQ5NWQ2ZWR8cnQ9MTQyNjUyMDI5M3xhdWlkPTUzNzEzNjMwNHxhdW09RE1JRC5XRUJ8c2lkPTUzNzA5OTUwNnxwdWI9NTM3MDgwOTU3fHBjPVVTRHxyYWlkPTdiMTJhMDJlLTU1NDMtNDFmZC04MTQ3LTBhMDI0ZGI1NmRmNXxjbD01fGFpZD01MzczMTUzMTl8dD00fGFzPTcyOHg5MHxsaWQ9NTM3MjE4Mzc4fG9pZD01MzcxNTg2OTJ8cD05NHxwcj05NHxhZHY9NTM3MDg2ODIwfGFjPVVTRHxwbT1QUklDSU5HLkNQTXxibT1CVVlJTkcuTk9OR1VBUkFOVEVFRHxjaT00fHVyPThJQmV5S0RTem8",
+            "type":"html",
+            "ad_url":"<!--  Begin Rubicon Project Tag -->\n<!--  Site: Chess.com (NEW)   Zone: 728x90 Top - ROW   Size: Leaderboard  -->\n<script language=\"JavaScript\" type=\"text/javascript\">\nrp_account   = '10956';\nrp_site      = '26252';\nrp_zonesize  = '168914-2';\nrp_adtype    = 'js';\nrp_smartfile = '[SMART FILE URL]';\n</script>\n<script type=\"text/javascript\" src=\"http://ads.rubiconproject.com/ad/10956.js\"></script>\n<!--  End Rubicon Project Tag -->"
+          },
+          {
+            "is_fallback":0,
+            "ad_id":"537327175",
+            "adv_acct_id":"537088451",
+            "adv_acct_id":"537088451",
+            "is_ng":1,
+            "adv_id":":537088451",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"10",
+            "width":"728",
+            "height":"90",
+            "html":"<iframe id=\"4ec6da0c1b4ce\" name=\"4ec6da0c1b4ce\" src=\"http://psa-d.openx.com/w/1.0/afr?auid=34591&cb=Lv9s99KqjH\" frameborder=\"0\" scrolling=\"no\" width=\"728\" height=\"90\"><a href=\"http://psa-d.openx.com/w/1.0/rc?cs=4ec6da0c1b4ce&cb=tHMTyHZlp7\" ><img src=\"http://psa-d.openx.com/w/1.0/ai?auid=34591&cs=4ec6da0c1b4ce&amp;cb=o16lb9rDGN\" border=\"0\" alt=\"\"></a></iframe>",
+            "target":"_blank",
+            "ts":"1fHJpZD1hYTIxNDVhOC02MDNjLTRjZGQtODNhOC04MTdjNjQ5NWQ2ZWR8cnQ9MTQyNjUyMDI5M3xhdWlkPTUzNzEzNjMwNHxhdW09RE1JRC5XRUJ8c2lkPTUzNzA5OTUwNnxwdWI9NTM3MDgwOTU3fHBjPVVTRHxyYWlkPTdiMTJhMDJlLTU1NDMtNDFmZC04MTQ3LTBhMDI0ZGI1NmRmNXxjbD01fGFpZD01MzczMjcxNzV8dD00fGFzPTcyOHg5MHxsaWQ9NTM3MjI1NjM0fG9pZD01MzcxNjMwMTh8cD0xMHxwcj0xMHxhZHY9NTM3MDg4NDUxfGFjPVVTRHxwbT1QUklDSU5HLkNQTXxibT1CVVlJTkcuSE9VU0V8Y2k9NXx1cj04SUJleUtEU3pv",
+            "type":"html",
+            "ad_url":"<iframe id=\"4ec6da0c1b4ce\" name=\"4ec6da0c1b4ce\" src=\"http://psa-d.openx.com/w/1.0/afr?auid=34591&cb=Lv9s99KqjH\" frameborder=\"0\" scrolling=\"no\" width=\"728\" height=\"90\"><a href=\"http://psa-d.openx.com/w/1.0/rc?cs=4ec6da0c1b4ce&cb=tHMTyHZlp7\" ><img src=\"http://psa-d.openx.com/w/1.0/ai?auid=34591&cs=4ec6da0c1b4ce&amp;cb=o16lb9rDGN\" border=\"0\" alt=\"\"></a></iframe>"
+          }
+        ]
+      }
+    ]
+  }
+});
